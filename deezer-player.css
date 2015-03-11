@@ -1,0 +1,24 @@
+:host {
+    display: block;
+}
+
+:host,
+:host([basic]) {
+    width: 700px;
+    height: 240px;
+}
+
+:host([horizontal]) {
+    width: 700px;
+    height: 80px;
+}
+
+:host([vertical]) {
+    width: 270px;
+    height: 600px;
+}
+
+::content #dz-player {
+    width: 100%;
+    height: 100%;
+}

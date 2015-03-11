@@ -1,0 +1,11 @@
+{
+  "name": "deezer-player",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  },
+  "devDependencies": {
+    "core-localstorage": "Polymer/core-localstorage#^0.5.4"
+  },
+  "version": "0.0.1"
+}
